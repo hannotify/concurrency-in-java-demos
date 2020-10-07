@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/concurrency-in-java-demos.iml" filepath="$PROJECT_DIR$/concurrency-in-java-demos.iml" />
       <module fileurl="file://$PROJECT_DIR$/demos/demos.iml" filepath="$PROJECT_DIR$/demos/demos.iml" />
       <module fileurl="file://$PROJECT_DIR$/assignments/slow-numbers/slow-numbers.iml" filepath="$PROJECT_DIR$/assignments/slow-numbers/slow-numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignments/smallest-number-in-array/smallest-number-in-array.iml" filepath="$PROJECT_DIR$/assignments/smallest-number-in-array/smallest-number-in-array.iml" />
       <module fileurl="file://$PROJECT_DIR$/demos/threads-101/threads-101.iml" filepath="$PROJECT_DIR$/demos/threads-101/threads-101.iml" />
     </modules>
   </component>

@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="slow-numbers" />
+        <module name="smallest-number-in-array" />
         <module name="threads-101" />
       </profile>
     </annotationProcessing>
@@ -19,6 +20,7 @@
       <module name="demos" target="1.5" />
       <module name="jpql" target="14" />
       <module name="slow-numbers" target="1.5" />
+      <module name="smallest-number-in-array" target="1.5" />
       <module name="speciaalbier" target="1.5" />
       <module name="threads-101" target="1.5" />
     </bytecodeTargetLevel>
