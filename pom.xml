@@ -1,0 +1,14 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.github.hannotify</groupId>
+    <artifactId>concurrency-in-java-demos</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>demos</module>
+        <module>assignments</module>
+    </modules>
+
+</project>
