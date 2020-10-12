@@ -11,7 +11,7 @@
     </parent>
 
     <groupId>com.github.hannotify.concurrencyinjavademos</groupId>
-    <artifactId>smallest-number-in-array</artifactId>
+    <artifactId>memory-inconsistency</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
     <properties>

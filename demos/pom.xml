@@ -8,5 +8,6 @@
 
     <modules>
         <module>threads-101</module>
+        <module>synchronization</module>
     </modules>
 </project>

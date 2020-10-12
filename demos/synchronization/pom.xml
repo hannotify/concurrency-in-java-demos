@@ -6,12 +6,12 @@
 
     <parent>
         <groupId>com.github.hannotify.concurrencyinjavademos</groupId>
-        <artifactId>assignments</artifactId>
+        <artifactId>demos</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
     <groupId>com.github.hannotify.concurrencyinjavademos</groupId>
-    <artifactId>smallest-number-in-array</artifactId>
+    <artifactId>synchronization</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
     <properties>

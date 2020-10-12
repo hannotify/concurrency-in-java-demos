@@ -9,6 +9,7 @@
     <modules>
         <module>slow-numbers</module>
         <module>smallest-number-in-array</module>
+        <module>memory-inconsistency</module>
     </modules>
 
 </project>

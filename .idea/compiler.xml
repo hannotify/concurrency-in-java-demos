@@ -8,6 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="slow-numbers" />
         <module name="smallest-number-in-array" />
+        <module name="synchronization" />
+        <module name="memory-inconsistency" />
         <module name="threads-101" />
       </profile>
     </annotationProcessing>
@@ -19,9 +21,11 @@
       <module name="criteria-api" target="14" />
       <module name="demos" target="1.5" />
       <module name="jpql" target="14" />
+      <module name="memory-inconsistency" target="14" />
       <module name="slow-numbers" target="14" />
-      <module name="smallest-number-in-array" target="1.5" />
+      <module name="smallest-number-in-array" target="14" />
       <module name="speciaalbier" target="1.5" />
+      <module name="synchronization" target="14" />
       <module name="threads-101" target="14" />
     </bytecodeTargetLevel>
   </component>
