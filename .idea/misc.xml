@@ -6,6 +6,10 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/assignments/memory-inconsistency/pom.xml" />
         <option value="$PROJECT_DIR$/demos/synchronization/pom.xml" />
+        <option value="$PROJECT_DIR$/assignments/starvation/pom.xml" />
+        <option value="$PROJECT_DIR$/demos/executor-service/pom.xml" />
+        <option value="$PROJECT_DIR$/demos/completable-future/pom.xml" />
+        <option value="$PROJECT_DIR$/demos/fork-join-pool/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

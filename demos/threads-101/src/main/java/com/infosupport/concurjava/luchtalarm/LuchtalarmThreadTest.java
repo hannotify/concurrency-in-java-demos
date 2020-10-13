@@ -11,6 +11,6 @@ public class LuchtalarmThreadTest {
                 new Luchtalarm("Rotterdam", 25),
                 new Luchtalarm("Antwerpen", 20));
 
-        testset.forEach(l -> new Thread(l::test).start());
+        testset.forEach(l -> new Thread(l::test).run());
     }
 }

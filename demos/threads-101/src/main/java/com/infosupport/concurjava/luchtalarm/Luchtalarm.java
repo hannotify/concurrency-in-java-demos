@@ -28,6 +28,11 @@ public class Luchtalarm {
                 });
     }
 
+    public String testWithResult() {
+        test();
+        return plaats;
+    }
+
     public String getPlaats() {
         return plaats;
     }

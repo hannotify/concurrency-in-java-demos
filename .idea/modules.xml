@@ -3,11 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/assignments/assignments.iml" filepath="$PROJECT_DIR$/assignments/assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/completable-future/completable-future.iml" filepath="$PROJECT_DIR$/demos/completable-future/completable-future.iml" />
       <module fileurl="file://$PROJECT_DIR$/concurrency-in-java-demos.iml" filepath="$PROJECT_DIR$/concurrency-in-java-demos.iml" />
       <module fileurl="file://$PROJECT_DIR$/demos/demos.iml" filepath="$PROJECT_DIR$/demos/demos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/executor-service/executor-service.iml" filepath="$PROJECT_DIR$/demos/executor-service/executor-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/fork-join-pool/fork-join-pool.iml" filepath="$PROJECT_DIR$/demos/fork-join-pool/fork-join-pool.iml" />
       <module fileurl="file://$PROJECT_DIR$/assignments/memory-inconsistency/memory-inconsistency.iml" filepath="$PROJECT_DIR$/assignments/memory-inconsistency/memory-inconsistency.iml" />
       <module fileurl="file://$PROJECT_DIR$/assignments/slow-numbers/slow-numbers.iml" filepath="$PROJECT_DIR$/assignments/slow-numbers/slow-numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/assignments/smallest-number-in-array/smallest-number-in-array.iml" filepath="$PROJECT_DIR$/assignments/smallest-number-in-array/smallest-number-in-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignments/starvation/starvation.iml" filepath="$PROJECT_DIR$/assignments/starvation/starvation.iml" />
       <module fileurl="file://$PROJECT_DIR$/demos/synchronization/synchronization.iml" filepath="$PROJECT_DIR$/demos/synchronization/synchronization.iml" />
       <module fileurl="file://$PROJECT_DIR$/demos/threads-101/threads-101.iml" filepath="$PROJECT_DIR$/demos/threads-101/threads-101.iml" />
     </modules>
