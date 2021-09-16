@@ -18,11 +18,11 @@ public class TextFileWriter {
         while (true) {
             System.out.println(threadName + " is busy writing files...");
 
-            try {
-                wait(100);
-            } catch (InterruptedException e) {
-                e.printStackTrace();
-            }
+//            try {
+//                wait(100);
+//            } catch (InterruptedException e) {
+//                e.printStackTrace();
+//            }
         }
     }
 }
