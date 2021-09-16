@@ -11,9 +11,7 @@ public class TextBuilder {
         String result = null;
         try {
             result = textBuilder.get();
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        } catch (ExecutionException e) {
+        } catch (InterruptedException | ExecutionException e) {
             e.printStackTrace();
         }
         System.out.println(result);
