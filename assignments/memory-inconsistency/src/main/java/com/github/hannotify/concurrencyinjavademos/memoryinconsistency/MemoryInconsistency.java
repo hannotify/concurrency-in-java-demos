@@ -1,7 +1,7 @@
 package com.github.hannotify.concurrencyinjavademos.memoryinconsistency;
 
 public class MemoryInconsistency {
-    private static volatile boolean pitstop = false;
+    private static boolean pitstop = false;
 
     public static void main(String[] args) throws InterruptedException {
         Thread teamRadio = new Thread(() -> {
