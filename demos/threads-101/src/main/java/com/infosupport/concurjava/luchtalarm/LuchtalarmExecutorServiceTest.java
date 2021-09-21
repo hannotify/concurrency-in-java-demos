@@ -12,7 +12,7 @@ public class LuchtalarmExecutorServiceTest {
             new Luchtalarm("Antwerpen", 20));
 
     public static void main(String[] args) {
-        luchtalarmTestMetCompletionService();
+        luchtalarmTestMetSubmit();
     }
 
     private static void luchtalarmTestMetExecute() {
