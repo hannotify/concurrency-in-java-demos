@@ -13,12 +13,12 @@ class FindMinimumActionTest {
         // Act
         long start = System.nanoTime();
         pool.execute(findMinimumAction);
-        long end = System.nanoTime();
 
         pool.shutdown();
 
         // Assert
         findMinimumAction.join();
+        long end = System.nanoTime();
         System.out.format("Test took %dms.", (end - start) / 1_000_000);
     }
 }
