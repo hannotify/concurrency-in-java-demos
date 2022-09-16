@@ -22,5 +22,5 @@
       </set>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" project-jdk-name="14.0.1" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" project-jdk-name="18" project-jdk-type="JavaSDK" />
 </project>
