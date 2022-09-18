@@ -16,5 +16,6 @@
         <module>executor-service</module>
         <module>completable-future</module>
         <module>fork-join-pool</module>
+        <module>lots-of-work</module>
     </modules>
 </project>

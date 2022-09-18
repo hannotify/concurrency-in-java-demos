@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/demos/demos.iml" filepath="$PROJECT_DIR$/demos/demos.iml" />
       <module fileurl="file://$PROJECT_DIR$/demos/executor-service/executor-service.iml" filepath="$PROJECT_DIR$/demos/executor-service/executor-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/demos/fork-join-pool/fork-join-pool.iml" filepath="$PROJECT_DIR$/demos/fork-join-pool/fork-join-pool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demos/lots-of-work/lots-of-work.iml" filepath="$PROJECT_DIR$/demos/lots-of-work/lots-of-work.iml" />
       <module fileurl="file://$PROJECT_DIR$/assignments/memory-inconsistency/memory-inconsistency.iml" filepath="$PROJECT_DIR$/assignments/memory-inconsistency/memory-inconsistency.iml" />
       <module fileurl="file://$PROJECT_DIR$/assignments/slow-numbers/slow-numbers.iml" filepath="$PROJECT_DIR$/assignments/slow-numbers/slow-numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/assignments/smallest-number-in-array/smallest-number-in-array.iml" filepath="$PROJECT_DIR$/assignments/smallest-number-in-array/smallest-number-in-array.iml" />

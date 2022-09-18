@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/demos/executor-service/pom.xml" />
         <option value="$PROJECT_DIR$/demos/completable-future/pom.xml" />
         <option value="$PROJECT_DIR$/demos/fork-join-pool/pom.xml" />
+        <option value="$PROJECT_DIR$/demos/lots-of-work/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

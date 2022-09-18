@@ -9,6 +9,7 @@
         <module name="starvation" />
         <module name="memory-inconsistency" />
         <module name="executor-service" />
+        <module name="lots-of-work" />
         <module name="fork-join-pool" />
         <module name="slow-numbers" />
         <module name="smallest-number-in-array" />
@@ -28,6 +29,7 @@
       <module name="executor-service" target="18" />
       <module name="fork-join-pool" target="18" />
       <module name="jpql" target="14" />
+      <module name="lots-of-work" target="18" />
       <module name="memory-inconsistency" target="18" />
       <module name="slow-numbers" target="18" />
       <module name="smallest-number-in-array" target="18" />
