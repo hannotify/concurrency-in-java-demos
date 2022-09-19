@@ -17,24 +17,24 @@
         <module name="completable-future" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="12">
-      <module name="article-order-catalog" target="1.5" />
-      <module name="assignments" target="1.5" />
-      <module name="bean-validation" target="1.5" />
-      <module name="completable-future" target="14" />
-      <module name="concurrency-in-java-demos" target="14" />
-      <module name="criteria-api" target="14" />
-      <module name="demos" target="1.5" />
-      <module name="executor-service" target="14" />
-      <module name="fork-join-pool" target="14" />
-      <module name="jpql" target="14" />
-      <module name="memory-inconsistency" target="14" />
-      <module name="slow-numbers" target="14" />
-      <module name="smallest-number-in-array" target="14" />
-      <module name="speciaalbier" target="1.5" />
-      <module name="starvation" target="14" />
-      <module name="synchronization" target="14" />
-      <module name="threads-101" target="14" />
+    <bytecodeTargetLevel target="18">
+      <module name="article-order-catalog" target="18" />
+      <module name="assignments" target="18" />
+      <module name="bean-validation" target="18" />
+      <module name="completable-future" target="18" />
+      <module name="concurrency-in-java-demos" target="18" />
+      <module name="criteria-api" target="18" />
+      <module name="demos" target="18" />
+      <module name="executor-service" target="18" />
+      <module name="fork-join-pool" target="18" />
+      <module name="jpql" target="18" />
+      <module name="memory-inconsistency" target="18" />
+      <module name="slow-numbers" target="18" />
+      <module name="smallest-number-in-array" target="18" />
+      <module name="speciaalbier" target="18" />
+      <module name="starvation" target="18" />
+      <module name="synchronization" target="18" />
+      <module name="threads-101" target="18" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
