@@ -10,13 +10,6 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <groupId>com.github.hannotify.concurrencyinjavademos</groupId>
-    <artifactId>starvation</artifactId>
+    <artifactId>best-price-finder</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-
-    <properties>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <maven.compiler.release>14</maven.compiler.release>
-    </properties>
-
 </project>

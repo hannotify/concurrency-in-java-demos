@@ -10,7 +10,8 @@
         <module>slow-numbers</module>
         <module>smallest-number-in-array</module>
         <module>memory-inconsistency</module>
-        <module>starvation</module>
+        <module>starvation-deadlock-livelock</module>
+        <module>best-price-finder</module>
     </modules>
 
 </project>
