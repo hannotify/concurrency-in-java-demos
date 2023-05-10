@@ -8,6 +8,7 @@
 
     <modules>
         <module>threads-101</module>
+        <module>scopedvalues</module>
         <module>synchronization</module>
         <module>executor-service</module>
         <module>completable-future</module>
